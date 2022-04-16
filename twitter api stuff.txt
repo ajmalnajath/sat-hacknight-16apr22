@@ -1,0 +1,17 @@
+FEwiyhc7x2Gov2
+
+
+api key
+g9yShVdrzNeGJFoqBk1dPZMqu
+
+api secret
+QIqdJW6BEgstSL9r6qWtiECp5eWo79f6hJMVAbXU4dohZ9tzRy
+
+bearer token
+AAAAAAAAAAAAAAAAAAAAANc%2BbgEAAAAAhj%2F2MUCl5rLpvX2iu8qGhuHQ%2BGo%3DSxCekgLQUDRnzZuY6zBw2yKLjIk2XKc59nrNvAYekOxM5n15pO
+
+acess
+1515352170597695492-oj5XuNbElXnLT41GwYu6WQhuTMy0cE
+
+access secret
+dKCt9EgoUkWhzunU4DKXsmk34CdRV1pnk5jEULbeXFYdB
